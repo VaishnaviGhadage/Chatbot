@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>PRINCIPAL SKNSCOE</pattern>
+<template>
+Dr. K. J. Karande
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>MECHANICAL ENGINEERING</pattern>
+<template>
+HOD: Dr. Kulkarni Sham Shridharao
+
+         FACULTY OF MECHANICAL ENGINEERING
+
+SR.NO.	NAME OF FACULTY
+1	    Dr. Kulkarni Sham Shridharao
+2   	Dr. Kulkarni Swanand Gajanan
+3   	Dr. Gandhare Balasaheb Shahaji
+4	    Dr. Kateker Sameer Dattatraym
+5   	Dr. Aradhye Atul Shripadr
+6	    Dr. Koli Somnath Rajaram
+7   	Prof. Phule Nandkishor Laxman
+8   	Prof. Giram Dhananjay Ram
+9   	Prof. Kulkarni Prasad Padmakar
+10  	Prof. Gholap Umesh Suresh
+11  	Prof. Kulkarni Hrishikesh Sudhir
+12  	Prof.Jadhav Anil Dadaso
+13  	Prof. Kulkarni Atul Suresh
+14  	Prof. Deshpande Hrishikesh Shirish
+15  	Prof. Shinde Rahul Keshavrao
+16  	Prof. Mali Samadhan Changdev
+17  	Prof. Maharnavar Sarjerao Bira
+18  	Prof. Navale Rohan Sanjay
+19  	Prof. Inamdar Gururaj Kumar
+20  	Prof. Salunkhe Subodh Shamrao
+21  	Prof. Navale Pramod Siddheshwar
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern> CIVIL ENGINEERING</pattern>
+<template>
+HOD: Dr. Kadam Shriganesh Shantikumar
+
+   FACULTY OF CIVIL ENGINEERING
+
+SR.NO.    NAME OF FACULTY
+1.	      Dr. Kadam Shriganesh Shantikumar
+2.	      Dr. Pise Chetan Pitambar
+3.	      Prof. Pawar Yashwant Prabhakar
+4.        Prof. Deshmukh Chandrakant Mahadeo
+5.        Prof. Lakade Ganesh Dhareshwar
+6.        Prof. Kamble Amol Ashok
+7.        Prof. Karande Ajit Vilas
+8.        Prof. Shekhar R. Patil
+9.        Prof. Sachin A. Ghadge
+10.       Prof. Omkar S. Bidkar
+11.       Prof. Sujit G. Rathod
+12.       Prof. Nikhat S. Khan
+13.       Prof. Milind V. Tondase
+14.       Prof. Siddhesh B. Pawar
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>COMPUTER ENGINEERING</pattern>
+<template>
+HOD: Dr. Subhash Vitthal Pingale
+
+         FACULTY OF COMPUTER ENGINEERING
+
+SR.NO.      NAME OF FACULTY
+1.	        Dr. Subhash Vitthal Pingale
+2.          Prof. Namdev Manik Sawant
+3.          Prof. Sumeet Sambhaji Ingole
+4.          Prof. Ramesh Shivaji Yevale
+5.          Prof.Shamsundar Sadashiv Bhimade
+6.          Prof. Udaykumar Ganpat Phule
+7.          Prof.Manoj Shivaji Koli
+8.	        Prof.Sandeep Ganpat Linge
+9.	        Prof. Balkrushna Bharat Jagada
+10.	        Prof. Somnath Agatrao Zambare
+11.	        Prof. Jayamala Kundlik Hippark
+12.         Prof.Anuradha Prakash Binavade
+13.	        Prof.Punam Sagar Gavali
+14.	        Prof. Dhanashri Prashant Bhosale
+15.	        Prof. Mansi Somnath Navale
+
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+<template>
+HOD: Dr. Mulani Altaf Osman
+
+         FACULTY OF ELECTRONICS AND TELECOMMUNICATION ENGINEERING
+
+SR.NO.      NAME OF FACULTY
+1.	        Dr. Godbole Bhalchandra Balkrishna
+2.          Prof. Pise Anjali Chetan
+3.          Dr. Harale Avinash Dashrath
+4.          Prof. Gangonda Siddheshwar Sangmeshwar
+5.          Prof. Birajadar Ganesh Basawaraj
+6.          Prof. Godase Vaibhav Vilas
+7.          Prof. Ghodake Rahul Ganpat
+8.          Prof.Shinde Anita Haridas
+9.          Prof. Takale Swapnil Ramchandra
+10.         Prof. Godase Sonali Kulbhushan
+11.         Prof. Mali Amruta Samadhan
+12.         Prof. Khapale Nitin Jalindar
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELECTRICAL ENGINEERING</pattern>
+<template>
+HOD: Prof. Vinodkumar Pandurang More
+
+          FACULTY OF ELECTRICAL ENGINEERING
+
+SR. NO.     NAME OF FACULTY
+1.	        Prof. Vinodkumar Pandurang More
+2.          Prof. Chandane Anjali Ashank
+3.          Prof. Korake Dattatraya Manohar
+4.          Prof. Masal Arjun Ramchandra
+5.          Prof. Pradip Bibhishan Vyavahare
+6.          Prof. Nagnath Vyankati Khandekar
+7.          Prof. Kishor Pratap Jadhav
+8.          Prof. Sonali Dattatraya Ghodake
+9.          Prof. Amol Nivrutti Godase
+
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>First Year B.Tech.</pattern>
+<template>
+HOD: Prof. A. I. Nikam
+
+         FACULTY OF First Year B.Tech.
+
+SR.NO.      NAME OF FACULTY
+1.          Prof. A. I. Nikam
+2.          Dr. S. G. Deshmukh
+3.          Prof. S. V. Pawar
+4.          Prof. S. V. Bagal
+5.          Prof. B. S. Savase
+6.          Prof. A. S. Ghongade
+7.          Prof. A. P. Savant
+8.          Prof. R. D. Sabale
+9.          Prof. D. P. Ganmote
+10.         Prof. S. S. Ghongade
+11.         Prof. S. D. Shinde
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+</aiml>

@@ -1,0 +1,1020 @@
+<aiml version="1.0">
+<category>
+        <pattern>LOAD AIML</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>data/*.aiml</learn>
+        </template>
+</category>
+
+<!-- ****************************** options data ***************************************************** -->
+  <category>
+        <pattern>fees</pattern>
+        <template>
+                FEES OF FIRST YEAR ln
+                FEES OF SECOND YEAR ln
+                FEES OF THIRD YEAR ln
+                FEES BTech ln
+                FEES MTech ln
+        </template>
+  </category>
+<category>
+        <pattern> HELLO </pattern>
+        <template>Hello there! How can I assist you?</template>
+</category>
+<category>
+<pattern>INFRASTRUCTURE</pattern>
+<template>
+
+    DEPARTMENTS ln
+    CAMPUS TOUR ln
+    HOSTEL FACILITY ln
+    CANTEEN ln
+
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC</pattern>
+<template>
+ ADMISSIONS ln
+ ENQUIRY FORM ln
+ ADMISSION DOCUMENTS ln
+ SYLLABUS ln
+ QUESTION PAPERS ln
+
+</template>
+</category>
+
+<category>
+<pattern>FACULTY</pattern>
+<template>
+
+ PRINCIPAL OF SKNSCOE ln
+ COMPUTER ENGINEERING ln
+ MECHANICAL ENGINEERING ln
+ CIVIL ENGINEERING ln
+ ELECTRICAL ENGINEERING ln
+ ELECTRONICS AND TELECOMMUNICATION ENGINEERING ln
+
+</template>
+</category>
+
+<category>
+<pattern>PLACEMENTS</pattern>
+<template>
+
+RECRUITERS ln
+INTERNSHIPS ln
+PLACEMENTS CELL ln
+PLACEMENTS ACTIVITIES ln
+
+</template>
+</category>
+
+<category>
+<pattern>EVENTS</pattern>
+<template>
+
+CARNIVAL ln
+HACKATHON ln
+WEENGS ln
+SPECTRUM ln
+
+</template>
+</category>
+
+<!-- ******************************************************* Academics data ************************* -->
+
+<category>
+<pattern>BACHELORS PROGRAMMES</pattern>
+<template>
+ The Bachelor of Technology (B.Tech) program
+         at our institution offers a four-year undergraduate engineering degree.
+          We provide courses in various disciplines such as Computer Science, Mechanical,
+          Electrical, Electronics, and Civil Engineering. Eligibility requires completion
+          of high school with a focus on science and mathematics. Our curriculum includes theoretical
+          studies, practical sessions, and industry projects. We offer modern facilities and industry
+          partnerships for internships. Graduates have promising job prospects across multiple sectors.
+          For more details, visit our website Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILITY BACHELORS</pattern>
+<template>
+  First Year Degree Bachelor of Engineering ln
+
+1. Passed HSC or its equivalent examination with Physics and Mathematics as compulsory subjects ln
+OR  ln
+Passed Diploma in Engineering and Technology  ln
+
+Direct Second  Year Bachelor of Engineering  ln
+
+1. Passed Diploma Course in Engineering and Technology ln
+OR ln
+Passed B.Sc Degree from a University Grants Commission (UGC) or Association of Indian Universities recognized University. ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>MASTERS PROGRAMMES</pattern>
+<template>
+  The Master of Technology (M.Tech) program is a two-year postgraduate degree offered
+  in various specializations such as Computer Science, Mechanical, Electrical, and Civil Engineering.
+  Eligibility requires an undergraduate degree in engineering or related fields with a strong academic record.
+  The program focuses on advanced coursework, research projects, and practical applications.
+  Graduates have diverse career opportunities in industries, research institutions, and academia.
+   For more details, visit our website Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILTY MASTERS</pattern>
+<template>
+  First Year Master of Engineering ln
+
+1. Passed Bachelor Degree in the relevant field of Engineering and Technology from All India Council for Technical Education or Central or State Government approved Institutions or equivalent, with at least 50% marks (at least 45% marks in case of candidates of Reserved class categories and persons with disability belonging to Maharashtra State only); ln
+2. Passed Bachelor Degree in the relevant course of Engineering and Technology as specified in the eligibility criteria for admission to a Post Graduate Degree course of the concerned University for which admission is being sought. ln
+3. Obtained non zero positive score in Graduates Aptitude Test in Engineering (GATE) conducted by Indian Institute of Technology ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS</pattern>
+<template>
+Syllabus of all years is available on the moodle login to the moodle and check subject wise syllabus ln use this link address for access the moodle http://103.132.171.121/  ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>QUESTION PAPERS</pattern>
+<template>
+Question papers of all years are available on the moodle login to the moodle and check subject wise question papers ln use this link address for access the moodle http://103.132.171.121/ ln
+for more information visit this Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSIONS</pattern>
+<template>
+In the last year all the requirements are fulfill In the last year total 360 admissions done for the first year.
+For detailed information about admission visit the link below ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ENQUIRY FORM</pattern>
+<template>
+To fill the Admission enquiry form visit the link below. ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSION DOCUMENTS</pattern>
+<template>
+To seek admission in B. Tech ,DSE or ME following is the list for documents. ln
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<!-- *********************************************** EVENTS *********************************** -->
+<category>
+<pattern>CARNIVAL</pattern>
+<template>
+ This is college fest organized by SKNSCOE. ln
+This fest includes many activities such as cultural,sports,dramas and many more. ln
+for more information follow this link: https://www.sknscoe.ac.in/
+
+</template>
+</category>
+
+<category>
+<pattern>HACKATHON</pattern>
+<template>
+This is National level college fest organized by SKNSCOE. ln
+This fest includes activity like 24 hrs coding battle. ln
+for more information follow this link: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>WEENGS</pattern>
+<template>
+This is State level college fest organized by SKNSCOE. ln
+This fest includes activity that is project Exhibition. ln
+The students who are participating they have to follow some rules from that some rules are: ln
+Team participation per project is up to 4 students. ln
+Participant should bring their all required components and connections. ln
+If anything is required it should be specified along with registration. ln
+this event is organized in second semester  in every year.
+for more information follow this link: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>SPECTRUM</pattern>
+<template>
+This is National level Technical festival organized by SKNSCOE. ln
+This fest includes different activities for different department like ln codding competition, GUI Designing, LAN Gaming, Poster presentation these events are organized for the Computer department. ln
+Circuit Sudoko, Microcontroller Programming, Innovative Business Idea, Poster presentation for the Electronics and telecommunication department ln
+CAD WAR, Technical Quiz, Innovative Mechanism, Poster Presentation for Mechanical Department ln
+Innova(IDEA PRESENTATION), Float a Boat, Trusso Model Making, Poster presentation for Civil department ln
+Innovation in electrical engineering, Electrical Puzzle, Circuit Master, Poster presentation for Electrical Department.
+for more information follow this link: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<!-- ****************************************** FACULTY **************************** -->
+
+<category>
+<pattern>PRINCIPAL</pattern>
+<template>
+Dr. K. J. Karande
+ln
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FMECHANICAL</pattern>
+<template>
+HOD: Dr. Kulkarni Sham Shridharao ln
+
+         FACULTY OF MECHANICAL ENGINEERING ln
+1	    Dr. Kulkarni Sham Shridharao ln
+2   	Dr. Kulkarni Swanand Gajanan ln
+3   	Dr. Gandhare Balasaheb Shahaji ln
+4	    Dr. Kateker Sameer Dattatraym ln
+5   	Dr. Aradhye Atul Shripadr ln
+6	    Dr. Koli Somnath Rajaram ln
+7   	Prof. Phule Nandkishor Laxman ln
+8   	Prof. Giram Dhananjay Ram ln
+9   	Prof. Kulkarni Prasad Padmakar ln
+10  	Prof. Gholap Umesh Suresh ln
+11  	Prof. Kulkarni Hrishikesh Sudhir ln
+12  	Prof.Jadhav Anil Dadaso ln
+13  	Prof. Kulkarni Atul Suresh ln
+14  	Prof. Deshpande Hrishikesh Shirish ln
+15  	Prof. Shinde Rahul Keshavrao ln
+16  	Prof. Mali Samadhan Changdev ln
+17  	Prof. Maharnavar Sarjerao Bira ln
+18  	Prof. Navale Rohan Sanjay ln
+19  	Prof. Inamdar Gururaj Kumar ln
+20  	Prof. Salunkhe Subodh Shamrao ln
+21  	Prof. Navale Pramod Siddheshwar ln
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern> FCIVIL </pattern>
+<template>
+HOD: Dr. Kadam Shriganesh Shantikumar ln
+
+   FACULTY OF CIVIL ENGINEERING ln
+
+1.	      Dr. Kadam Shriganesh Shantikumar ln
+2.	      Dr. Pise Chetan Pitambar ln
+3.	      Prof. Pawar Yashwant Prabhakar ln
+4.        Prof. Deshmukh Chandrakant Mahadeo ln
+5.        Prof. Lakade Ganesh Dhareshwar ln
+6.        Prof. Kamble Amol Ashok ln
+7.        Prof. Karande Ajit Vilas ln
+8.        Prof. Shekhar R. Patil ln
+9.        Prof. Sachin A. Ghadge ln
+10.       Prof. Omkar S. Bidkar ln
+11.       Prof. Sujit G. Rathod ln
+12.       Prof. Nikhat S. Khan ln
+13.       Prof. Milind V. Tondase ln
+14.       Prof. Siddhesh B. Pawar ln
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FCOMPUTER</pattern>
+<template>
+HOD: Dr. Subhash Vitthal Pingale ln
+
+         FACULTY OF COMPUTER ENGINEERING ln
+
+1.	        Dr. Subhash Vitthal Pingale ln
+2.          Prof. Namdev Manik Sawant ln
+3.          Prof. Sumit Sambhaji Ingole ln
+4.          Prof. Ramesh Shivaji Yevale ln
+5.          Prof.Shamsundar Sadashiv Bhimade ln
+6.          Prof. Udaykumar Ganpat Phule ln
+7.          Prof.Manoj Shivaji Koli ln
+8.	        Prof.Sandeep Ganpat Linge ln
+9.	        Prof. Balkrushna Bharat Jagada ln
+10.	        Prof. Somnath Agatrao Zambare ln
+11.	        Prof. Jayamala Kundlik Hippark ln
+12.         Prof.Anuradha Prakash Binavade ln
+13.	        Prof.Punam Sagar Gavali ln
+14.	        Prof. Dhanashri Prashant Bhosale ln
+15.	        Prof. Mansi Somnath Navale ln
+
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FELECTRONICS</pattern>
+<template>
+HOD: Dr. Mulani Altaf Osman ln
+
+         FACULTY OF ELECTRONICS AND TELECOMMUNICATION ENGINEERING ln
+
+1.	        Dr. Godbole Bhalchandra Balkrishna ln
+2.          Prof. Pise Anjali Chetan ln
+3.          Dr. Harale Avinash Dashrath ln
+4.          Prof. Gangonda Siddheshwar Sangmeshwar ln
+5.          Prof. Birajadar Ganesh Basawaraj ln
+6.          Prof. Godase Vaibhav Vilas ln
+7.          Prof. Ghodake Rahul Ganpat ln
+8.          Prof.Shinde Anita Haridas ln
+9.          Prof. Takale Swapnil Ramchandra ln
+10.         Prof. Godase Sonali Kulbhushan ln
+11.         Prof. Mali Amruta Samadhan ln
+12.         Prof. Khapale Nitin Jalindar ln
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FELECTRICAL</pattern>
+<template>
+HOD: Prof. Vinodkumar Pandurang More ln
+
+          FACULTY OF ELECTRICAL ENGINEERING ln
+
+1.	        Prof. Vinodkumar Pandurang More ln
+2.          Prof. Chandane Anjali Ashank ln
+3.          Prof. Korake Dattatraya Manohar ln
+4.          Prof. Masal Arjun Ramchandra ln
+5.          Prof. Pradip Bibhishan Vyavahare ln
+6.          Prof. Nagnath Vyankati Khandekar ln
+7.          Prof. Kishor Pratap Jadhav ln
+8.          Prof. Sonali Dattatraya Ghodake ln
+9.          Prof. Amol Nivrutti Godase ln
+
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FFirst Year B.Tech</pattern>
+<template>
+HOD: Prof. A. I. Nikam ln
+
+         FACULTY OF First Year B.Tech. ln
+
+1.          Prof. A. I. Nikam ln
+2.          Dr. S. G. Deshmukh ln
+3.          Prof. S. V. Pawar ln
+4.          Prof. S. V. Bagal ln
+5.          Prof. B. S. Savase ln
+6.          Prof. A. S. Ghongade ln
+7.          Prof. A. P. Savant ln
+8.          Prof. R. D. Sabale ln
+9.          Prof. D. P. Ganmote ln
+10.         Prof. S. S. Ghongade ln
+11.         Prof. S. D. Shinde ln
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FLIBRARY</pattern>
+<template>
+         STAFF OF LIBRARY ln
+
+1.          Dr. S. S. Kulkarni ln
+2.          Mrs.Nisha K. Karande ln
+3.          Mrs.Sarika A. Nikam ln
+4.          Mrs. Vandana Mali ln
+5.          Mr. Dadaso Waghmare ln
+6.          Mr. Dadaso Nale ln
+7.          Mr. Jayash Mali ln
+8.          Mr. Vaibhav Gaikwad ln
+
+
+Read more at: https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>non teaching</pattern>
+<template>
+There are total 67 non teaching staff. ln
+ Mr. Parchande Pandurang Namdev  ln
+Mr. Bankar Sanjay Jagannath ln
+Mr. Lawate Siddheshwar Sandipan ln
+Mr. Ingawale Eknath Ankush ln
+Ms. Kulkarni Sangeeta Narayan ln
+Mr. Tambave Dattatraya Sadashiv ln
+Mr. Shende Balaso Laxman ln
+Mr. Mhetre Vishal Mahadeo ln
+Mr. Navale Amol Khandu ln
+Mr. Patil Sangram Achyut ln
+Mr. Shinde Prabhakar Baburao ln
+Mr. Randive Ganesh Shivaji ln
+Mr. Gaikwad Sachin Lahu ln
+Ms. Shinde Sandhya Dashrath ln
+Mr. Mhetre Sanjay Prabhakar ln
+Mr. Salimkumar P.J. ln
+Mr. Koli Amol Pandit ln
+Mr. Navale Vijay Ananda ln
+Mr. Karande Amit Vilas ln
+Mr. Bankar Dhanaji Vitthal ln
+Mr. Vasekar Ganesh Dattu ln
+Mr. Navale Ganesh Namdev ln
+Mr. Gaikwad Vaibhav Uttam ln
+Mrs. Nikam Sarika Anil ln
+Mr. Navale Dattatraya Popat ln
+Mr. Autade Ankush Ramchandra ln
+Mrs. Karande Nisha Kailash ln
+Mr. Navale Yogesh Jaywant ln
+Mr. Navale Satish Jagannath ln
+Mr. Bansode Pramod Shivaji ln
+Mr. Raut Rajaram Vishnu ln
+Mr. Mali Navnath Arvind ln
+Mr. Waghmare Sachin Dnyaneshwar ln
+Mr. Bankar Navnath Vinayak ln
+Mr. Randive Dnyaneshwar Uttam ln
+Mrs. Mali Poonam Vinayak ln
+Mr. Mali Ganesh Madhukar ln
+Mr. Mali Vinayak Madhukar ln
+Mr. Mane Namdev Madhukar ln
+Mr. Yedage Ashish Sukhdeo ln
+Mrs. Waghmare Madhuri Rahul  ln
+Mr. Mali Jayash Savata ln
+Mr. Itape Vikas Dattatraya ln
+Ms. Adlinge Kavita Dnyanu ln
+Mr. Navale Vishal Vitthal ln
+Ms. Pise Simita Dattatray ln
+Mr. Vasekar Satyavan Ramchandra ln
+Mr. Patil Dattatray Hanmant  ln
+Mr. Waghmare Dadaso Vitthal ln
+Mr. Mulani Ganim Imam ln
+Mr. Bansode Dadaso Malaku  ln
+Mr. Nale Dadaso Malhari ln
+Dr. Kulkarni Shirish Sharad ln
+Mr. Waghmare Akash Anil ln
+Mr. Vasekar Samadhan Gangaram  ln
+Mrs. Mali Vandana Navnath  ln
+Mrs. Navale Sarika Amol ln
+Mr. Jadhav Suryakant Dattatray ln
+Mr. Bhujbal Santosh Vilas  ln
+Mrs. Raut Ashwini ajaram ln
+Mrs. Patil Kavita Rajshekhar ln
+Mrs. Khandagale Rupali Ganpati ln
+Mrs. Kulkarni Prajakta Shirish ln
+Mr. Autade Shrikrishna Tukaram ln
+Mr. Bansode Navanath Malaku ln
+Mrs. Kadam Trupti Baban ln
+Mr.Gavali Dattatray Raghunath ln
+
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+
+
+
+
+
+<!-- ******************************************* Fees Data ***************************** -->
+
+<category>
+<pattern>FE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 50,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+
+</template>
+</category>
+
+<category>
+<pattern>SE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 98,000/- .	ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE SE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY: Total fees is 10,000/- ln
+  Link:https://www.sknscoe.ac.in/
+</template>
+
+</category>
+
+<category>
+<pattern>TE</pattern>
+<template>
+  1)OPEN CATEGORY:Total fees is 98,000/-. ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE TE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FBTech</pattern> ln
+<template>
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE BE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>FMTech</pattern>
+<template>
+  1)FIRST YEAR:Total fees is 98,000/- ln
+  for home university students and 96,000/- ln
+  for other than home university students( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE). ln
+  2)SECOND YEAR:Total fees is 99,00,000/- ( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE). ln
+   Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<!-- ************************************* INFRASTRUCTURE ****************************** -->
+
+<category>
+<pattern>DEPARTMENTS </pattern>
+<template>
+  Main Building ln
+  Ground floor - Principal cabin Labs for FE and AC Seminar Hall ln
+  1st floor - Classrooms for FE ln
+  2nd floor - Department of Electronics and Telecommunication Engineering ln
+  3rd floor -  Department of Computer Engineering ln
+
+  1st Building - Department of Mechanical Engineering ln
+
+  2nd Building -  Department of Electrical Engineering and Civil Engineering ln
+
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>CAMPUS TOUR</pattern>
+<template>
+  For campus tour please visit the following link. ln
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>HOSTEL FACILITY</pattern>
+<template>
+   Hostel Payment Details A.Y. 2023-24 (Girls Hostel and Boys Hostel) ln
+
+   Hostel Deposit - Rs. 2000/ ln
+   Hostel Rent - Rs. 3,500/-p.m. ln
+   Total Rent - Rs. 38,000/-pa (First Year and Direct Second Year Students) ln
+                            Rs. 36,000/- pa (Second Year and Third Year) ln
+   Hostel Mess - Rs 3,500/-p.m. ln
+
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>CANTEEN</pattern>
+<template>
+  The campus canteen serves hygienic and quality food to the students and faculty. ln
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<!-- ************************************ PLACEMENTS ***************************** -->
+
+<category>
+	<pattern>RECRUITERS</pattern>
+	<template>
+	<random>
+	<li>Various companies are coming to recruite our students and offer maximum packages
+	    MAIN RECRUITERS are TCS, RELIANCE JIO, INFOSYS etc ln
+	    for more information https://www.sknscoe.ac.in/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>recruiters*</pattern>
+	<template>
+	<srai>RECRUITERS</srai>
+	</template>
+</category>
+<category>
+	<pattern>COMPANY LOGOS</pattern>
+	<template>
+	<random>
+	<li> For information of Companies logos please visit this website ln https://www.sknscoe.ac.in/</li>
+	</random>
+	</template>
+	</category>
+<category>
+	<pattern>company logos*</pattern>
+	<template>
+	<srai>COMPANY LOGOS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INTERNSHIPS</pattern>
+	<template>
+	<random>
+	<li>-Our college helps to student to get internship in company ln
+            - Internships plays an important role to get jobs in dream company ln
+	    -This website will give more information related our college ln https://www.sknscoe.ac.in/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>interships*</pattern>
+	<template>
+	<srai>INTERSHIPS</srai>
+	</template>
+</category>
+<category>
+	<pattern>CELL</pattern>
+	<template>
+	<random>
+	<li>Our college has an integrated Training and Placement cell.
+	This cell has the requisite infrastructure and human resources support and for its effective functioning
+    main aim of your college is ln
+                    1)Personal Development programs ln
+					2)Career Guidance  ln
+					3)Industry Institute Interactions ln
+					4)Placement Preparedness ln
+					5)Industry Relations ln
+					</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>placement cell*</pattern>
+	<template>
+	<srai>PLACEMENTS CELL</srai>
+	</template>
+</category>
+<category>
+	<pattern>PLACEMENTS ACTIVITIES</pattern>
+	<template>
+	<random>
+	<li>Our college organize various activities related to placements.
+	For latest update visit this link https://www.sknscoe.ac.in/</li>
+	</random>
+	</template>
+</category>
+<category>
+	<pattern>placement activites*</pattern>
+	<template>
+	<srai>PLACEMENTS ACTIVITES</srai>
+	</template>
+</category>
+
+<category>
+        <pattern>SKN Sinhgad</pattern>
+     <template>
+        SKN Sinhgad College of Engineering, Pandharpur is Accredited
+        by NAAC with 'A+' Grade in Solapur University. ln
+        SKN Sinhgad College of Engineering is housed in beautiful campus of 20 acres and
+        developed under dynamic leadership of Hon'ble Prof. M. N. Navale. The Institute offers five B. Tech.,
+        four M. Tech. and two Ph. D. degree courses in Engineering and Technology under Punyashlok Ahilyadevi Holkar
+        Solapur University, Solapur. It also offers five various courses under PMKVY. Since its establishment, the
+        institute has made considerable progress in the field of Engineering education and research. As a result of this,
+        the institute is accredited with ‘A+’ grade by NAAC. The institute ensures the overall development of students through
+        well defined teaching learning process and skill based activities. Students will have an exposure for experiential
+        learning through value based Education and on campus projects. The team of faculty members of SKNSCOE are committed
+        to prepare our students as tomorrow's leaders to match the need of fast changing world under the
+        guidance of Dr. Kailash J. Karande, Principal, SKNSCOE. All the laboratories of each departments has modern and
+        state-of-art equipment's with all required hardware's and software's. The fully fledged library with all required
+        reference books, Journals, periodicals.
+
+To understand academic progress and individual problems, a scheme of Local Guardian Teacher for every 20 students exist in each department and this initiative helps for shaping our students as good human beings.
+
+The campus of SKNSCOE is fully residential with excellent infrastructure and facilities. The institute has well equipped hostel facilities, computer centre, hygienic mess and canteen, dispensary, ATM, Gymnasium, etc within the campus.
+To serve the interest of the student's community as well as the corporate and industrial sectors SPSPM maintains a close liaison with the industry and other leading organizations. There are experts from different fields contributing their valuable experience to build the institution as a place of learning and discipline. Entrusted by society to create a sustainable world and enhance the global quality of life, engineers serve competently, collaboratively, and ethically.
+        For latest update visit this link https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+<category>
+        <pattern>SKN</pattern>
+     <template>
+        Long form of SKN is Shrimati Kashibai Navale.
+        For latest update visit this link https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+<category>
+        <pattern>THANKYOU</pattern>
+     <template>
+       You're welcome! If you need any further information, feel free to ask. 😊
+     </template>
+</category>
+
+<category>
+        <pattern>ESTABLISHMENT DATE</pattern>
+     <template>
+        SKNSCOE is established on JUNE 2010.
+     </template>
+</category>
+
+<category>
+        <pattern>vision</pattern>
+     <template>
+      Our vision is: "We are committed to transform SKNSCOE, as a leading technological institute in
+      India which offers a dynamic learning environment with value based education through self-learning
+      and innovative thinking in students."
+     </template>
+</category>
+
+<category>
+        <pattern>mission</pattern>
+     <template>
+     Mission of our college is: "SKN Sinhgad College of Engineering offers a unique culture to
+     enhance self-esteem, team spirit, and life skills of students to match the need of fast changing world.
+      The institute focuses on self-learning abilities and project based learning through well-defined curricular
+      and co-curricular activities."
+
+     </template>
+</category>
+
+<category>
+        <pattern>Quality Policy</pattern>
+     <template>
+      Quality Policy of the institute aims to provide foremost infrastructure,
+      equipment and competent faculty to shape overall development of the students in terms of
+      their technical excellence and personality traits meeting ever changing expectations of the stakeholders.
+     </template>
+</category>
+
+<category>
+        <pattern>pos</pattern>
+     <template>
+
+ <uppercase> Engineering Graduate will be able to: </uppercase> ln
+   <uppercase> Engineering knowledge:</uppercase> Apply the knowledge of mathematics, science,engineering fundamentals, and an engineering specialization to the solution ofcomplex engineering problems ln
+   <uppercase> Problem analysis:</uppercase> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences. ln
+   <uppercase> Design/development of solutions:</uppercase> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations. ln
+   <uppercase> Conduct investigations of complex problems:</uppercase> Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions. ln
+   <uppercase> Modern tool usage:</uppercase> Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations. ln
+   <uppercase> The engineer and society:</uppercase> Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice. ln
+   <uppercase> Environment and sustainability:</uppercase> Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development. ln
+   <uppercase> Ethics:</uppercase> Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice. ln
+   <uppercase> Individual and team work:</uppercase> Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings. ln
+   <uppercase> Communication:</uppercase> Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions. ln
+   <uppercase> Project management and finance:</uppercase> Demonstrate knowledge and understanding of t h e engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. ln
+   <uppercase> Life-long learning:</uppercase> Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change. ln
+
+     </template>
+</category>
+
+<category>
+        <pattern>founder</pattern>
+     <template>
+      M. N. Navale, ME (Elect.), MIE (I), MBA, Founder, President, Sinhgad Institutes.
+      You may be aware about the activities of Sinhgad Institutions established with an objective to
+       provide quality education from school to post graduation programmes in all disciplines.
+     </template>
+</category>
+<category>
+        <pattern>tpo</pattern>
+     <template>
+         Dr. Kateker Sameer Dattatray is the training and placement officer.
+     </template>
+</category>
+
+
+
+<!-- *************************************************DETAILS OF DEPTS************************** -->
+
+<category>
+        <pattern>COMPUTER SCIENCE</pattern>
+     <template>
+        The Computer Science and Engineering (CSE) department
+        offers courses and programs focused on computer science, software engineering,
+        and related fields. It typically covers topics such as programming languages,
+        algorithms, data structures, computer architecture, software engineering principles,
+         database systems, artificial intelligence, machine learning, and more. CSE departments
+         often emphasize practical skills alongside theoretical knowledge, preparing students for
+         careers in software development, IT consulting, research, and academia.
+     </template>
+</category>
+<category>
+        <pattern>CIVIL</pattern>
+     <template>
+      The Civil Engineering Department is primarily focused on the design,
+      construction, and maintenance of infrastructure projects such as roads,
+      bridges, buildings, dams, and water supply systems. Civil engineers play a
+      crucial role in ensuring the safety, functionality, and sustainability of these structures.
+      They apply principles of mathematics, physics, and materials science to solve complex
+      engineering problems. Additionally, civil engineering encompasses various specialized areas
+      such as transportation engineering, structural engineering, geotechnical engineering,
+      environmental engineering, and hydraulic engineering.
+     </template>
+</category>
+<category>
+        <pattern>Mechanical</pattern>
+     <template>
+        The Mechanical Engineering department focuses on designing,
+        developing, and maintaining machinery and mechanical systems.
+        It covers a wide range of subjects like thermodynamics, fluid mechanics,
+        materials science, and manufacturing processes. Students in this department
+        learn to apply engineering principles to solve real-world problems related to
+        machines, engines, and energy systems. Graduates often pursue careers in industries
+        such as automotive, aerospace, energy, and manufacturing.
+     </template>
+</category>
+<category>
+        <pattern>ELECTRICAL</pattern>
+     <template>
+        The Electrical Department offers undergraduate and graduate
+        programs in electrical engineering. It covers various subjects such
+        as power systems, electronics, control systems, and communication.
+        The department focuses on theoretical knowledge and practical skills,
+        preparing students for careers in industries like power generation,
+        telecommunications, and electronics.
+     </template>
+</category>
+<category>
+        <pattern>ELECTRONICS</pattern>
+     <template>
+        The Electronics and Telecommunication department focuses on the
+        study and application of electronic devices, circuits, and systems,
+        as well as telecommunications technologies. It covers a wide range of
+        subjects including digital and analog electronics, communication systems,
+        signal processing, microwave engineering, embedded systems, and more.
+        Students in this department gain skills in designing, analyzing, and
+        troubleshooting electronic systems and communication networks.
+        Graduates often pursue careers in industries such as telecommunications,
+        semiconductor manufacturing, consumer electronics, and research organizations.
+     </template>
+</category>
+ <category>
+        <pattern>Library</pattern>
+        <template>
+                The library at SKN Sinhgad College of Engineering, Pandharpur, serves as a vital academic resource hub for students and faculty. ln
+
+Collection: The library houses a diverse collection of books, journals, periodicals, and digital resources across various disciplines relevant to engineering education. ln
+
+Digital Resources: In addition to traditional print materials, the library provides access to digital resources such as e-books, online journals, databases, and multimedia materials. ln
+
+Facilities: It offers a conducive environment for study and research, with spacious reading areas, computer terminals, and internet access for students and faculty. ln
+
+Services: The library provides various services such as borrowing and lending of books, reference assistance, inter-library loan services, photocopying facilities, and access to online resources. ln
+
+Staff: Knowledgeable and helpful library staff are available to assist users with locating resources, navigating databases, and utilizing library services effectively. ln
+
+Opening Hours: The library operates during regular college hours and may have extended hours during peak study periods and exam seasons. ln
+        For latest update visit this link https://www.sknscoe.ac.in/
+        </template>
+    </category>
+
+<category>
+        <pattern>Mess</pattern>
+     <template>
+        There are two mess in the college both are college mess the fees of mess is combined with the hostel.
+        there is no need to pay the separate fees of mess. ln In the mess there are two sections boys section and girls section. ln
+        College mess provide only the lunch and dinner. for the breakfast there is canteen. ln
+        for more information visit the website: https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+<category>
+        <pattern>branch</pattern>
+     <template>
+        In our college there are total FIVE branches ln
+       COMPUTER ENGINEERING ln
+       MECHANICAL ENGINEERING ln
+       CIVIL ENGINEERING ln
+       ELECTRICAL ENGINEERING ln
+       ELECTRONICS AND TELECOMMUNICATION ENGINEERING ln
+        for more information visit the website: https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+<category>
+        <pattern>INTAKE</pattern>
+     <template>
+     Total seats available in collage for the first year students
+        COMPUTER ENGINEERING 60 ln
+        MECHANICAL ENGINEERING 120 ln
+        CIVIL ENGINEERING  60 ln
+        ELECTRICAL ENGINEERING  60 ln
+        ELECTRONICS AND TELECOMMUNICATION ENGINEERING 60 ln
+        for more information visit the website: https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+<category>
+     <pattern>placed</pattern>
+     <template>
+        In 2022-23 total 188 students are placed through the campus placement.
+        for more information visit the website: https://www.sknscoe.ac.in/
+     </template>
+</category>
+
+
+
+
+
+
+<!-- ************************************************* Table ************************** -->
+
+<category>
+  <pattern>cse book</pattern>
+  <template>
+    <![CDATA[
+    Here's the cse department books available in the library:
+    <table border="2">
+      <tr>
+        <th>Sr No</th>
+        <th></th>
+        <th>Book Title</th>
+        <th></th>
+        <th>Author Name</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <th></th>
+        <td>A Textbook Of Discrete Mathematics</td>
+        <th></th>
+        <td>Sarkar, S. K.</td>
+        <th></th>
+      </tr>
+      <tr>
+        <td>2</td>
+        <th></th>
+        <td>AD HOC Networking</td>
+        <th></th>
+        <td>Perkins, C. E.</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <th></th>
+        <td>Advance Computer Arehitecture</td>
+        <th></th>
+        <td>Hwang,K</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <th></th>
+        <td>Advanced Programming in the Unix Environment</td>
+        <th></th>
+        <td>Stevens, W. R.</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <th></th>
+        <td>All About Technical Analysis</td>
+        <th></th>
+        <td>Brown, C.</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <th></th>
+        <td>All of C</td>
+        <th></th>
+        <td>Ghosh, S.</td>
+      </tr>
+    </table>
+    ]]>
+  </template>
+</category>
+
+
+
+
+
+
+
+
+</aiml>

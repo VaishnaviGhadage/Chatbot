@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<category>
+<pattern>BACHELORS PROGRAMMES</pattern>
+<template>
+  Bachelors Programmes provided are Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering and Mechanical Engineering.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILITY BACHELORS</pattern>
+<template>
+  First Year Degree Bachelor of Engineering
+
+1. Passed HSC or its equivalent examination with Physics and Mathematics as compulsory subjects
+OR
+Passed Diploma in Engineering and Technology
+
+Direct Second  Year Bachelor of Engineering 
+
+1. Passed Diploma Course in Engineering and Technology
+OR
+Passed B.Sc Degree from a University Grants Commission (UGC) or Association of Indian Universities recognized University.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>MASTERS PROGRAMMES</pattern>
+<template>
+  Masters Programmes provided are  Civil Engineering(Construction Engineering and Management), Computer Engineering,  Electronics and Telecommunication Engineering,Mechanical Engineering(Machine Design).
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ELIGIBILTY MASTERS</pattern>
+<template>
+  First Year Master of Engineering
+
+1. The Candidate should be an Indian National.
+2. Passed Bachelor Degree in the relevant field of Engineering and Technology from All India Council for Technical Education or Central or State Government approved Institutions or equivalent, with at least 50% marks (at least 45% marks in case of candidates of Reserved class categories and persons with disability belonging to Maharashtra State only); 
+3. Passed Bachelor Degree in the relevant course of Engineering and Technology as specified in the eligibility criteria for admission to a Post Graduate Degree course of theconcerned University for which admission is being sought.
+4. Obtained non zero positive score in Graduates Aptitude Test in Engineering (GATE) conducted by Indian Institute of Technology:
+
+OR
+
+For sponsored candidates, minimum of two years of full time work experience in a registered firm company / industry, educational and | or research Institute / any or Government Autonomous Government Department Organization in the relevant field in which admission is being sought.
+
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS</pattern>
+<template>
+Syllabus of all years and departments is available in the link below.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>QUESTION PAPERS</pattern>
+<template>
+Question papers of all years and departments is available in the link below.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSIONS</pattern>
+<template>
+For detailed information about admission visit the link below
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ENQUIRY FORM</pattern>
+<template>
+To fill the Admission enquiry form visit the link below.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>ADMISSION DOCUMENTS</pattern>
+<template>
+To seek admission in B. Tech ,DSE or ME following is the list of documents.
+Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+</aiml>
+
+
+

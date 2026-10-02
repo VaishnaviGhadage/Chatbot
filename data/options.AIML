@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="2.0">
+
+
+<category>
+<pattern>FEES</pattern>
+<template> 
+<random>
+<li>
+----------------------1)FEES First Year B.Tech.------------------------
+----------------------2)FEES Second Year B.Tech------------------------
+----------------------3)FEES Third Year B.Tech------------------------
+----------------------4)FEES Final Year B.Tech---------------------
+----------------------5)FEES M.Tech------------------------
+</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>INFRASTRUCTURE</pattern>
+<template>
+ <random>
+<li>------------1)DEPARTMENTS LABS-------------  
+    ------------2)CAMPUS TOUR----------------------    
+    ------------3)HOSTEL FACILITY-------------------
+    ------------4)CANTEEN----------------------------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC</pattern>
+<template>
+ <random>
+<li>----------1)ADMISSIONS----------------------------
+    ----------2)ENQUIRY FORM--------------------------
+    ----------3)ADMISSION DOCUMENTS------------------
+    ----------4)SYLLABUS--------------------------------
+    ----------5)QUESTION PAPERS-------------------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>FACULTY</pattern>
+<template>
+ <random>
+<li>
+----------1) PRINCIPAL OF SKNSCOE-----------------------------------
+----------2) COMPUTER ENGINEERING----------------------------------
+----------3) MECHANICAL ENGINEERING--------------------------------
+----------4) CIVIL ENGINEERING------------------------------------
+----------5) ELECTRICAL ENGINEERING--------------------------------
+----------6) ELECTRONICS AND TELECOMMUNICATION ENGINEERING---------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>PLACEMENTS</pattern>
+<template>
+ <random>
+<li>
+--------------1)RECRUITERS-------------------
+--------------2)INTERNSHIPS------------------
+--------------3)PLACEMENTS CELL--------------
+--------------4)PLACEMENTS ACTIVITIES--------
+</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>EVENTS</pattern>
+<template>
+ <random>
+<li>      
+--------------1)CARNIVAL------------------------------
+--------------2)HACKATHON-------------------
+</li>
+</random>
+</template>
+</category>
+</aiml>

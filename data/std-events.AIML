@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>CARNIVAL</pattern>
+<template>
+<random>
+<li>This is college fest organized by SKNSCOE.
+This fest includes many activities such as cultural,sports,dramas and many more.
+for more information:-https://www.sknscoe.ac.in/</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>HACKATHON</pattern>
+<template>
+<random>
+<li>This is National level college fest organized by SKNSCOE.
+This fest includes activity like 24 hrs coding battle.
+for more information:-https://www.sknscoe.ac.in/</li>
+</random>
+</template>
+</category>
+
+ 
+</aiml>

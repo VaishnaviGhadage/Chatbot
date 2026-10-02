@@ -1,0 +1,311 @@
+Pattern,Response
+LOAD AIML,
+fees,"FEES OF FIRST YEAR ln
+                FEES OF SECOND YEAR ln
+                FEES OF THIRD YEAR ln
+                FEES BTech ln
+                FEES MTech ln"
+HELLO,Hello there! How can I assist you?
+INFRASTRUCTURE,"DEPARTMENTS ln
+    CAMPUS TOUR ln
+    HOSTEL FACILITY ln
+    CANTEEN ln"
+ACADEMIC,"ADMISSIONS ln
+ ENQUIRY FORM ln
+ ADMISSION DOCUMENTS ln
+ SYLLABUS ln
+ QUESTION PAPERS ln"
+FACULTY,"PRINCIPAL OF SKNSCOE ln
+ COMPUTER ENGINEERING ln
+ MECHANICAL ENGINEERING ln
+ CIVIL ENGINEERING ln
+ ELECTRICAL ENGINEERING ln
+ ELECTRONICS AND TELECOMMUNICATION ENGINEERING ln"
+PLACEMENTS,"RECRUITERS ln
+INTERNSHIPS ln
+PLACEMENTS CELL ln
+PLACEMENTS ACTIVITIES ln"
+EVENTS,"CARNIVAL ln
+HACKATHON ln"
+BACHELORS PROGRAMMES,"The Bachelor of Technology (B.Tech) program
+         at our institution offers a four-year undergraduate engineering degree.
+          We provide courses in various disciplines such as Computer Science, Mechanical,
+          Electrical, Electronics, and Civil Engineering. Eligibility requires completion
+          of high school with a focus on science and mathematics. Our curriculum includes theoretical
+          studies, practical sessions, and industry projects. We offer modern facilities and industry
+          partnerships for internships. Graduates have promising job prospects across multiple sectors.
+          For more details, visit our website Link:https://www.sknscoe.ac.in/"
+ELIGIBILITY BACHELORS,"First Year Degree Bachelor of Engineering ln
+
+1. Passed HSC or its equivalent examination with Physics and Mathematics as compulsory subjects ln
+OR  ln
+Passed Diploma in Engineering and Technology  ln
+
+Direct Second  Year Bachelor of Engineering  ln
+
+1. Passed Diploma Course in Engineering and Technology ln
+OR ln
+Passed B.Sc Degree from a University Grants Commission (UGC) or Association of Indian Universities recognized University. ln
+Link:https://www.sknscoe.ac.in/"
+MASTERS PROGRAMMES,"The Master of Technology (M.Tech) program is a two-year postgraduate degree offered
+  in various specializations such as Computer Science, Mechanical, Electrical, and Civil Engineering.
+  Eligibility requires an undergraduate degree in engineering or related fields with a strong academic record.
+  The program focuses on advanced coursework, research projects, and practical applications.
+  Graduates have diverse career opportunities in industries, research institutions, and academia.
+   For more details, visit our website Link:https://www.sknscoe.ac.in/"
+ELIGIBILTY MASTERS,"First Year Master of Engineering ln
+
+1. The Candidate should be an Indian National. ln
+2. Passed Bachelor Degree in the relevant field of Engineering and Technology from All India Council for Technical Education or Central or State Government approved Institutions or equivalent, with at least 50% marks (at least 45% marks in case of candidates of Reserved class categories and persons with disability belonging to Maharashtra State only); ln
+3. Passed Bachelor Degree in the relevant course of Engineering and Technology as specified in the eligibility criteria for admission to a Post Graduate Degree course of theconcerned University for which admission is being sought. ln
+4. Obtained non zero positive score in Graduates Aptitude Test in Engineering (GATE) conducted by Indian Institute of Technology ln
+
+OR ln
+
+For sponsored candidates, minimum of two years of full time work experience in a registered firm company / industry, educational and | or research Institute / any or Government Autonomous Government Department Organization in the relevant field in which admission is being sought. ln
+
+Link:https://www.sknscoe.ac.in/"
+SYLLABUS,"Syllabus of all years and departments is available in the link below. ln
+Link:https://www.sknscoe.ac.in/"
+QUESTION PAPERS,"Question papers of all years and departments is available in the link below. ln
+Link:https://www.sknscoe.ac.in/"
+ADMISSIONS,"For detailed information about admission visit the link below ln
+Link:https://www.sknscoe.ac.in/"
+ENQUIRY FORM,"To fill the Admission enquiry form visit the link below. ln
+Link:https://www.sknscoe.ac.in/"
+ADMISSION DOCUMENTS,"To seek admission in B. Tech ,DSE or ME following is the list for documents. ln
+Link:https://www.sknscoe.ac.in/"
+CARNIVAL,"This is college fest organized by SKNSCOE. ln
+This fest includes many activities such as cultural,sports,dramas and many more. ln
+for more information follow this link: https://www.sknscoe.ac.in/"
+HACKATHON,"This is National level college fest organized by SKNSCOE. ln
+This fest includes activity like 24 hrs coding battle. ln
+for more information follow this link: https://www.sknscoe.ac.in/"
+PRINCIPAL,"Dr. K. J. Karande
+ln
+Read more at: https://www.sknscoe.ac.in/"
+FMECHANICAL,"HOD: Dr. Kulkarni Sham Shridharao ln
+
+         FACULTY OF MECHANICAL ENGINEERING ln
+1	    Dr. Kulkarni Sham Shridharao ln
+2   	Dr. Kulkarni Swanand Gajanan ln
+3   	Dr. Gandhare Balasaheb Shahaji ln
+4	    Dr. Kateker Sameer Dattatraym ln
+5   	Dr. Aradhye Atul Shripadr ln
+6	    Dr. Koli Somnath Rajaram ln
+7   	Prof. Phule Nandkishor Laxman ln
+8   	Prof. Giram Dhananjay Ram ln
+9   	Prof. Kulkarni Prasad Padmakar ln
+10  	Prof. Gholap Umesh Suresh ln
+11  	Prof. Kulkarni Hrishikesh Sudhir ln
+12  	Prof.Jadhav Anil Dadaso ln
+13  	Prof. Kulkarni Atul Suresh ln
+14  	Prof. Deshpande Hrishikesh Shirish ln
+15  	Prof. Shinde Rahul Keshavrao ln
+16  	Prof. Mali Samadhan Changdev ln
+17  	Prof. Maharnavar Sarjerao Bira ln
+18  	Prof. Navale Rohan Sanjay ln
+19  	Prof. Inamdar Gururaj Kumar ln
+20  	Prof. Salunkhe Subodh Shamrao ln
+21  	Prof. Navale Pramod Siddheshwar ln
+
+Read more at: https://www.sknscoe.ac.in/"
+FCIVIL,"HOD: Dr. Kadam Shriganesh Shantikumar ln
+
+   FACULTY OF CIVIL ENGINEERING ln
+
+1.	      Dr. Kadam Shriganesh Shantikumar ln
+2.	      Dr. Pise Chetan Pitambar ln
+3.	      Prof. Pawar Yashwant Prabhakar ln
+4.        Prof. Deshmukh Chandrakant Mahadeo ln
+5.        Prof. Lakade Ganesh Dhareshwar ln
+6.        Prof. Kamble Amol Ashok ln
+7.        Prof. Karande Ajit Vilas ln
+8.        Prof. Shekhar R. Patil ln
+9.        Prof. Sachin A. Ghadge ln
+10.       Prof. Omkar S. Bidkar ln
+11.       Prof. Sujit G. Rathod ln
+12.       Prof. Nikhat S. Khan ln
+13.       Prof. Milind V. Tondase ln
+14.       Prof. Siddhesh B. Pawar ln
+
+Read more at: https://www.sknscoe.ac.in/"
+FCOMPUTER,"HOD: Dr. Subhash Vitthal Pingale ln
+
+         FACULTY OF COMPUTER ENGINEERING ln
+
+1.	        Dr. Subhash Vitthal Pingale ln
+2.          Prof. Namdev Manik Sawant ln
+3.          Prof. Sumit Sambhaji Ingole ln
+4.          Prof. Ramesh Shivaji Yevale ln
+5.          Prof.Shamsundar Sadashiv Bhimade ln
+6.          Prof. Udaykumar Ganpat Phule ln
+7.          Prof.Manoj Shivaji Koli ln
+8.	        Prof.Sandeep Ganpat Linge ln
+9.	        Prof. Balkrushna Bharat Jagada ln
+10.	        Prof. Somnath Agatrao Zambare ln
+11.	        Prof. Jayamala Kundlik Hippark ln
+12.         Prof.Anuradha Prakash Binavade ln
+13.	        Prof.Punam Sagar Gavali ln
+14.	        Prof. Dhanashri Prashant Bhosale ln
+15.	        Prof. Mansi Somnath Navale ln
+
+
+Read more at: https://www.sknscoe.ac.in/"
+FELECTRONICS,"HOD: Dr. Mulani Altaf Osman ln
+
+         FACULTY OF ELECTRONICS AND TELECOMMUNICATION ENGINEERING ln
+
+1.	        Dr. Godbole Bhalchandra Balkrishna ln
+2.          Prof. Pise Anjali Chetan ln
+3.          Dr. Harale Avinash Dashrath ln
+4.          Prof. Gangonda Siddheshwar Sangmeshwar ln
+5.          Prof. Birajadar Ganesh Basawaraj ln
+6.          Prof. Godase Vaibhav Vilas ln
+7.          Prof. Ghodake Rahul Ganpat ln
+8.          Prof.Shinde Anita Haridas ln
+9.          Prof. Takale Swapnil Ramchandra ln
+10.         Prof. Godase Sonali Kulbhushan ln
+11.         Prof. Mali Amruta Samadhan ln
+12.         Prof. Khapale Nitin Jalindar ln
+
+Read more at: https://www.sknscoe.ac.in/"
+FELECTRICAL,"HOD: Prof. Vinodkumar Pandurang More ln
+
+          FACULTY OF ELECTRICAL ENGINEERING ln
+
+1.	        Prof. Vinodkumar Pandurang More ln
+2.          Prof. Chandane Anjali Ashank ln
+3.          Prof. Korake Dattatraya Manohar ln
+4.          Prof. Masal Arjun Ramchandra ln
+5.          Prof. Pradip Bibhishan Vyavahare ln
+6.          Prof. Nagnath Vyankati Khandekar ln
+7.          Prof. Kishor Pratap Jadhav ln
+8.          Prof. Sonali Dattatraya Ghodake ln
+9.          Prof. Amol Nivrutti Godase ln
+
+
+Read more at: https://www.sknscoe.ac.in/"
+FFirst Year B.Tech,"HOD: Prof. A. I. Nikam ln
+
+         FACULTY OF First Year B.Tech. ln
+
+1.          Prof. A. I. Nikam ln
+2.          Dr. S. G. Deshmukh ln
+3.          Prof. S. V. Pawar ln
+4.          Prof. S. V. Bagal ln
+5.          Prof. B. S. Savase ln
+6.          Prof. A. S. Ghongade ln
+7.          Prof. A. P. Savant ln
+8.          Prof. R. D. Sabale ln
+9.          Prof. D. P. Ganmote ln
+10.         Prof. S. S. Ghongade ln
+11.         Prof. S. D. Shinde ln
+
+Read more at: https://www.sknscoe.ac.in/"
+FE,"1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 50,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+  Link:https://www.sknscoe.ac.in/"
+SE,"1)OPEN CATEGORY:Total fees is 98,000/- .	ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE SE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY: Total fees is 10,000/- ln
+  Link:https://www.sknscoe.ac.in/"
+TE,"1)OPEN CATEGORY:Total fees is 98,000/-. ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE TE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+  Link:https://www.sknscoe.ac.in/"
+FBTech,"1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+FEES DSE BE: ln
+  1)OPEN CATEGORY:Total fees is 98,000/- . ln
+  2)OBC,EBC,SEBC CATEGORY:Total fees is 58,000/- . ln
+  3)SBC,VJ,NT,DT,SC,ST CATEGORY:Total fees is 10,000/- . ln
+  Link:https://www.sknscoe.ac.in/"
+FMTech,"1)FIRST YEAR:Total fees is 98,000/- ln
+  for home university students and 96,000/- ln
+  for other than home university students( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE). ln
+  2)SECOND YEAR:Total fees is 99,00,000/- ( INSTITUTIONAL SCHOLARSHIP IS AVAILABLE). ln
+   Link:https://www.sknscoe.ac.in/"
+DEPARTMENTS,"Main Building ln
+  Ground floor - Principal cabin Labs for FE and AC Seminar Hall ln
+  1st floor - Classrooms for FE ln
+  2nd floor - Department of Electronics and Telecommunication Engineering ln
+  3rd floor -  Department of Computer Engineering ln
+
+  1st Building - Department of Mechanical Engineering ln
+
+  2nd Building -  Department of Electrical Engineering and Civil Engineering ln
+
+  Link:https://www.sknscoe.ac.in/"
+CAMPUS TOUR,"For campus tour please visit the following link. ln
+  Link:https://www.sknscoe.ac.in/"
+HOSTEL FACILITY,"Hostel Payment Details A.Y. 2023-24 (Girls Hostel and Boys Hostel) ln
+
+   Hostel Deposit - Rs. 2000/ ln
+   Hostel Rent - Rs. 3,500/-p.m. ln
+   Total Rent - Rs. 38,000/-pa (First Year and Direct Second Year Students) ln
+                            Rs. 36,000/- pa (Second Year and Third Year) ln
+   Hostel Mess - Rs 3,500/-p.m. ln
+
+  Link:https://www.sknscoe.ac.in/"
+CANTEEN,"The campus canteen serves hygienic and quality food to the students and faculty. ln
+  Link:https://www.sknscoe.ac.in/"
+RECRUITERS,
+recruiters*,
+COMPANY LOGOS,
+company logos*,
+INTERNSHIPS,
+interships*,
+PLACEMENTS CELL,
+placement cell*,
+PLACEMENTS ACTIVITIES,
+placement activites*,
+SKN Sinhgad,"SKN Sinhgad College of Engineering, Pandharpur is Accredited
+        by NAAC with 'A+' Grade in Solapur University."
+COMPUTER SCIENCE,"The Computer Science and Engineering (CSE) department
+        offers courses and programs focused on computer science, software engineering,
+        and related fields. It typically covers topics such as programming languages,
+        algorithms, data structures, computer architecture, software engineering principles,
+         database systems, artificial intelligence, machine learning, and more. CSE departments
+         often emphasize practical skills alongside theoretical knowledge, preparing students for
+         careers in software development, IT consulting, research, and academia."
+CIVIL,"The Civil Engineering Department is primarily focused on the design,
+      construction, and maintenance of infrastructure projects such as roads,
+      bridges, buildings, dams, and water supply systems. Civil engineers play a
+      crucial role in ensuring the safety, functionality, and sustainability of these structures.
+      They apply principles of mathematics, physics, and materials science to solve complex
+      engineering problems. Additionally, civil engineering encompasses various specialized areas
+      such as transportation engineering, structural engineering, geotechnical engineering,
+      environmental engineering, and hydraulic engineering."
+Mechanical,"The Mechanical Engineering department focuses on designing,
+        developing, and maintaining machinery and mechanical systems.
+        It covers a wide range of subjects like thermodynamics, fluid mechanics,
+        materials science, and manufacturing processes. Students in this department
+        learn to apply engineering principles to solve real-world problems related to
+        machines, engines, and energy systems. Graduates often pursue careers in industries
+        such as automotive, aerospace, energy, and manufacturing."
+ELECTRICAL,"The Electrical Department offers undergraduate and graduate
+        programs in electrical engineering. It covers various subjects such
+        as power systems, electronics, control systems, and communication.
+        The department focuses on theoretical knowledge and practical skills,
+        preparing students for careers in industries like power generation,
+        telecommunications, and electronics."
+ELECTRONICS,"The Electronics and Telecommunication department focuses on the
+        study and application of electronic devices, circuits, and systems,
+        as well as telecommunications technologies. It covers a wide range of
+        subjects including digital and analog electronics, communication systems,
+        signal processing, microwave engineering, embedded systems, and more.
+        Students in this department gain skills in designing, analyzing, and
+        troubleshooting electronic systems and communication networks.
+        Graduates often pursue careers in industries such as telecommunications,
+        semiconductor manufacturing, consumer electronics, and research organizations."

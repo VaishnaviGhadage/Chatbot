@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+<div id="frame">
+  <div id="sidepanel">
+    <div id="profile">
+      <div class="wrap">
+        <img src="C:\Users\Vaishnu\Desktop\CLGBOT" alt="" />
+        <p><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <h1 style="font-size:200%;">SKN SINGHAD COLLEGE OF ENGINEERING PANDHARPUR</h1>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="content">
+    <div class="contact-profile">
+      <img src="https://miro.medium.com/max/327/1*paQ7E6f2VyTKXHpR-aViFg.png" alt="" />
+      <p>SKNSCOE BOT</p>
+    </div>
+    <div class="messages">
+      <ul id="chatbox">
+        <li class="sent"></li>
+        <li class="replies">
+          <img src="https://miro.medium.com/max/327/1*paQ7E6f2VyTKXHpR-aViFg.png" alt="" />
+          <p>Hello! I am the SKNSCOE-CHATBOT !<br></p>
+        </li>
+      </ul>
+    </div>
+    <div class="message-input">
+      <div class="wrap">
+        <div id="userInput">
+          <input id="textInput" type="text" name="msg" placeholder="Write your message..." />
+          <i class="fa fa-paperclip attachment" aria-hidden="true"></i>
+          <button class="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+    $(".messages").animate({ scrollTop: $(document).height() }, "fast");
+
+    function newMessage() {
+        var message = $(".message-input input").val();
+        if ($.trim(message) === '') {
+            return false;
+        }
+
+        $('<li class="sent"><img src="https://www.11ty.dev/img/default-avatar.png" alt="" /><p>' + message + '</p></li>').appendTo($('.messages ul'));
+        $.get("/get", { msg: message }).done(function(data) {
+            $('<li class="replies"><img src="https://miro.medium.com/max/327/1*paQ7E6f2VyTKXHpR-aViFg.png" alt="" /><p>' + data + '</p></li>').appendTo($('.messages ul'));
+            $(".messages").animate({ scrollTop: $(document).height() }, "fast");
+        });
+        $(".message-input input").val(null);
+    }
+
+    $('.submit').click(function() {
+        newMessage();
+    });
+
+    $(window).on('keydown', function(e) {
+        if (e.which === 13) {
+            newMessage();
+            return false;
+        }
+    });
+
+</script>
+</body>
+</html>

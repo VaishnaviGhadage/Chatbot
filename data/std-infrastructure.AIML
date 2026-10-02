@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>DEPARTMENTS LABS</pattern>
+<template>
+  Main Building
+  Ground floor - Principal cabin Labs for FE and AC Seminar Hall
+  1st floor - Classrooms for FE
+  2nd floor - Department of Electronics and Telecommunication Engineering
+  3rd floor -  Department of Computer Engineering
+
+  1st Building - Department of Mechanical Engineering
+
+  2nd Building -  Department of Electrical Engineering and Civil Engineering
+
+  ssLink:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>CAMPUS TOUR</pattern>
+<template>
+  For campus tour please visit the following link.
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>HOSTEL FACILITY</pattern>
+<template>
+   Hostel Payment Details A.Y. 2023-24 (Girls Hostel and Boys Hostel)
+
+   Hostel Deposit - Rs. 2000/
+   Hostel Rent - Rs. 3,500/-p.m.
+   Total Rent - Rs. 38,000/-pa (First Year and Direct Second Year Students)
+                            Rs. 36,000/- pa (Second Year and Third Year)
+   Hostel Mess - Rs 3,500/-p.m.
+
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+<category>
+<pattern>CANTEEN</pattern>
+<template>
+  The campus canteen serves hygienic and quality food to the students and faculty.
+
+  Link:https://www.sknscoe.ac.in/
+</template>
+</category>
+
+</aiml>
